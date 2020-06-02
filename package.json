@@ -8,8 +8,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-amplify/api": "^3.1.12",
+    "formik": "^2.1.4",
+    "heroicons": "^0.2.0",
     "next": "9.4.2",
+    "next-svgr": "^0.0.2",
+    "postcss-preset-env": "^6.7.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "swr": "^0.2.2",
+    "tailwindcss": "^1.4.6",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/custom-forms": "^0.2.1"
   }
 }

@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-todonext-dev-110223-authRole",
+            "UnauthRoleArn": "arn:aws:iam::487757292854:role/amplify-todonext-dev-110223-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::487757292854:role/amplify-todonext-dev-110223-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-todonext-dev-110223-deployment",
+            "UnauthRoleName": "amplify-todonext-dev-110223-unauthRole",
+            "StackName": "amplify-todonext-dev-110223",
+            "StackId": "arn:aws:cloudformation:us-east-2:487757292854:stack/amplify-todonext-dev-110223/7552ac30-a033-11ea-a4e4-06faea3c34dc",
+            "AmplifyAppId": "dthwuhwxuplhz"
+        }
+    }
+}

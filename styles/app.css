@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+html {
+  @apply font-sans antialiased h-full text-gray-900 bg-gray-300;
+  font-family: 'Inter', sans-serif;
+}
+
+main {
+  overflow-y: hidden;
+}
+
+@tailwind utilities;

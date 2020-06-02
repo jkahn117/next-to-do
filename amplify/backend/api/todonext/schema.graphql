@@ -1,0 +1,10 @@
+type Todo
+  @model
+  # @key(fields: [ "id", "createdAt" ])
+{
+  id: ID!
+  name: String!
+  description: String
+  complete: Boolean!
+  createdAt: AWSDateTime!
+}
